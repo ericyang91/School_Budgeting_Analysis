@@ -15,6 +15,70 @@
 </br>
 
 ## Observations:
+</br>
+District Summary:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/districtsummary.png" alt="districtsummary"/>
+</p>
+</br>
+School Summary:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/schoolsummary.png" alt="schoolsummary"/>
+</p>
+</br>
+Highest Performing Schools by % Passing Both Subjects:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/highestperforming.png" alt="highestperforming"/>
+</p>
+</br>
+Lowest Performing Schools by % Passing Both Subjects
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/lowestperforming.png" alt="lowestperforming"/>
+</p>
+</br>
+Math Scores by Grade:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/mathbygrade.png" alt="mathbygrade"/>
+</p>
+</br>
+Reading Scores by Grade:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/readingbygrade.png" alt="readingbygrade"/>
+</p>
+</br>
+Summary by Budget Category:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/summarybybudget.png" alt="summarybybudget"/>
+</p>
+</br>
+Summary by Size Category:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/summarybysize.png" alt="summarybysize"/>
+</p>
+</br>
+Summary by School Type:
+</br>
+</br>
+<p align="center">
+  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/summarybytype.png" alt="summarybytype"/>
+</p>
+</br>
 
 ## Analysis:
 
