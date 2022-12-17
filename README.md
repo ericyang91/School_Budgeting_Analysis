@@ -7,11 +7,10 @@
 
 ## Data:
 
-  The project works with the following csv data:
+  A quick snapshot of the csv data:
   
-<tr>
-<td><img src="" width="500"><img src=""</td>
-</tr>
+
+
 
 ## Observations:
 
