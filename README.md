@@ -10,7 +10,7 @@
   The project works with the following csv data:
   
 <tr>
-<td><img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/csv1.jpg" width="500"><img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/csv2.jpg"</td>
+<td><img src="" width="500"><img src=""</td>
 </tr>
 
 ## Observations:
