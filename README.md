@@ -95,7 +95,7 @@ Summary by School Type:
 ** The general trend is that charter schools that on average have smaller student population have higher math and reading scores compared to district schools. Charter schools also spend on average less budget per student. Further study is required separate the effect of school types from that of the population on students' performance. It is also important to explore if there are any other factors related to charter schools that are affecting students' performance. Before these studies are performed, it is recommended to be cautious before making strategic decisions on budgeting. **
 
 </br>
-
+</br>
 
 ## Languages and Libraries:
 </br>
