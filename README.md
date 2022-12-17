@@ -7,7 +7,7 @@
 
 ## Data:
 
-  A quick snapshot of the csv data:
+  A quick snapshot of the raw DataFrame:
 </br></br>
 <p align="center">
   <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/rawdata.png" alt="rawdata"/>
