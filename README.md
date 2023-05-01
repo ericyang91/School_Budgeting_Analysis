@@ -1,5 +1,5 @@
 # School Budgeting Analysis
-</br>
+![main](https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/main.jpg)
 
 ## Purpose:
 
