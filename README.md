@@ -98,9 +98,7 @@ Summary by School Type:
 </br>
 
 ## Languages and Libraries:
-</br>
-
-`python v.3.9.12`
-`jupyter notebook v.6.4.8`
-`pandas v.1.4.2`
-`Visual Studio 1.74.1`
+[![Python](https://img.shields.io/badge/python-v3.10-blue)](https://www.python.org/downloads/release/python-310/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)](https://pandas.pydata.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-v1.57-blue)](https://code.visualstudio.com/)
